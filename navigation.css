@@ -1,0 +1,14 @@
+/*
+Is a:active correct?
+When the user clicks on one of the links, the element that contains the link should grow 
+in size by 5px on the left and right.
+*/
+a:hover {
+	color: green;
+	list-style-type: none;
+	background-color: black;
+}
+
+a:active {
+	font-size: 5em;
+}
